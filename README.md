@@ -47,7 +47,7 @@ pod 'REFrostedViewController', '~> 2.4'
 Install into your Xcode project:
 
 ``` bash
-$ pod install
+$ pod install   
 ```
 
 Open your project in Xcode from the .xcworkspace file (not the usual project file)
